@@ -1,0 +1,708 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:001",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:001",
+        "sequence": 1,
+        "waypoint": "HECA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 31.413889,
+        "latitude": 30.111389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.413889,
+          30.111389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:002",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:002",
+        "sequence": 2,
+        "waypoint": "CVO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.388417,
+        "latitude": 30.092306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.388417,
+          30.092306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:003",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:003",
+        "sequence": 3,
+        "waypoint": "MENKU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.301667,
+        "latitude": 31.091944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.301667,
+          31.091944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:004",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:004",
+        "sequence": 4,
+        "waypoint": "NOZ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.950833,
+        "latitude": 31.1875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.950833,
+          31.1875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:005",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:005",
+        "sequence": 5,
+        "waypoint": "GOMVA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.4375,
+        "latitude": 32.002778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4375,
+          32.002778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:006",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:006",
+        "sequence": 6,
+        "waypoint": "NOGLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.303056,
+        "latitude": 32.213611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.303056,
+          32.213611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:007",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:007",
+        "sequence": 7,
+        "waypoint": "ANTAR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 28.266667,
+        "latitude": 33.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.266667,
+          33.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:008",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:008",
+        "sequence": 8,
+        "waypoint": "RIGRO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.874167,
+        "latitude": 37.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.874167,
+          37.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:009",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:009",
+        "sequence": 9,
+        "waypoint": "ATFIR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 23.774722,
+        "latitude": 41.401667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.774722,
+          41.401667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:010",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:010",
+        "sequence": 10,
+        "waypoint": "USALI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 23.645556,
+        "latitude": 42.301944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.645556,
+          42.301944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:011",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:011",
+        "sequence": 11,
+        "waypoint": "NARKA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.86,
+        "latitude": 47.248333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.86,
+          47.248333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:012",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:012",
+        "sequence": 12,
+        "waypoint": "LENOV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.010278,
+        "latitude": 49.336389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.010278,
+          49.336389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:013",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:013",
+        "sequence": 13,
+        "waypoint": "GOSAK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 20.304444,
+        "latitude": 50.557778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.304444,
+          50.557778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:014",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:014",
+        "sequence": 14,
+        "waypoint": "NEGUV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 20.115833,
+        "latitude": 50.914722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.115833,
+          50.914722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:015",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:015",
+        "sequence": 15,
+        "waypoint": "OVBOR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 20.019167,
+        "latitude": 51.104167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.019167,
+          51.104167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:016",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:016",
+        "sequence": 16,
+        "waypoint": "LUBEN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.9575,
+        "latitude": 51.224167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9575,
+          51.224167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:017",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:017",
+        "sequence": 17,
+        "waypoint": "NUBLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.887778,
+        "latitude": 51.358611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.887778,
+          51.358611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:018",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:018",
+        "sequence": 18,
+        "waypoint": "IRBOS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.844167,
+        "latitude": 51.4425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.844167,
+          51.4425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:019",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:019",
+        "sequence": 19,
+        "waypoint": "PENEX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.277222,
+        "latitude": 52.563056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.277222,
+          52.563056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:020",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:020",
+        "sequence": 20,
+        "waypoint": "NASOK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.006389,
+        "latitude": 53.091944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.006389,
+          53.091944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:021",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:021",
+        "sequence": 21,
+        "waypoint": "IRLUN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 18.614861,
+        "latitude": 53.750583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.614861,
+          53.750583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:022",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:022",
+        "sequence": 22,
+        "waypoint": "KARTI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 18.208056,
+        "latitude": 54.299722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.208056,
+          54.299722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:023",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:023",
+        "sequence": 23,
+        "waypoint": "PENOR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.161389,
+        "latitude": 55.638611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.161389,
+          55.638611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:024",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:024",
+        "sequence": 24,
+        "waypoint": "TESPO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.228611,
+        "latitude": 56.337778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.228611,
+          56.337778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:025",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:025",
+        "sequence": 25,
+        "waypoint": "ARMOD",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.346111,
+        "latitude": 57.500833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.346111,
+          57.500833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:026",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:026",
+        "sequence": 26,
+        "waypoint": "NILUG",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.884722,
+        "latitude": 58.815833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.884722,
+          58.815833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-ESSA:027",
+      "properties": {
+        "route_id": "HECA-ESSA",
+        "route_name": "HECA-ESSA",
+        "origin": "HECA",
+        "destination": "ESSA",
+        "point_count": 27,
+        "source_file": "HECA-ESSA.gpx",
+        "point_id": "HECA-ESSA:027",
+        "sequence": 27,
+        "waypoint": "ESSA",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 17.918611,
+        "latitude": 59.651944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.918611,
+          59.651944
+        ]
+      }
+    }
+  ]
+}

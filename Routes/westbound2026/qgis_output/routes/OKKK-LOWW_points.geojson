@@ -1,0 +1,786 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:001",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:001",
+        "sequence": 1,
+        "waypoint": "OKKK",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 47.979953,
+        "latitude": 29.226767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.979953,
+          29.226767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:002",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:002",
+        "sequence": 2,
+        "waypoint": "NIDAP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 47.615556,
+        "latitude": 28.649167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.615556,
+          28.649167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:003",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:003",
+        "sequence": 3,
+        "waypoint": "BOSID",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 46.874444,
+        "latitude": 28.709444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.874444,
+          28.709444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:004",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:004",
+        "sequence": 4,
+        "waypoint": "SIBSA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 46.335,
+        "latitude": 28.751667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.335,
+          28.751667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:005",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:005",
+        "sequence": 5,
+        "waypoint": "LAKSO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 45.691389,
+        "latitude": 28.7975
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.691389,
+          28.7975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:006",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:006",
+        "sequence": 6,
+        "waypoint": "VATIM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 44.745278,
+        "latitude": 28.86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.745278,
+          28.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:007",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:007",
+        "sequence": 7,
+        "waypoint": "RAF",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 43.497972,
+        "latitude": 29.620194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.497972,
+          29.620194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:008",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:008",
+        "sequence": 8,
+        "waypoint": "RAGED",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 42.196944,
+        "latitude": 30.088333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.196944,
+          30.088333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:009",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:009",
+        "sequence": 9,
+        "waypoint": "AAR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.142167,
+        "latitude": 30.908028
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.142167,
+          30.908028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:010",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:010",
+        "sequence": 10,
+        "waypoint": "OVANO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 39.164167,
+        "latitude": 31.800278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.164167,
+          31.800278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:011",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:011",
+        "sequence": 11,
+        "waypoint": "OTILA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 39.031344,
+        "latitude": 32.025278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.031344,
+          32.025278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:012",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:012",
+        "sequence": 12,
+        "waypoint": "MODAD",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 38.693928,
+        "latitude": 32.594411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.693928,
+          32.594411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:013",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:013",
+        "sequence": 13,
+        "waypoint": "KUMLO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 38.468797,
+        "latitude": 32.96995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.468797,
+          32.96995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:014",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:014",
+        "sequence": 14,
+        "waypoint": "SOKAN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 38.368611,
+        "latitude": 33.135833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.368611,
+          33.135833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:015",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:015",
+        "sequence": 15,
+        "waypoint": "FIRAS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 37.92,
+        "latitude": 33.871944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.92,
+          33.871944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:016",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:016",
+        "sequence": 16,
+        "waypoint": "NISAP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 36.641389,
+        "latitude": 36.784444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.641389,
+          36.784444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:017",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:017",
+        "sequence": 17,
+        "waypoint": "MILBA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 36.479444,
+        "latitude": 36.951389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.479444,
+          36.951389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:018",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:018",
+        "sequence": 18,
+        "waypoint": "TEVDA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 35.066667,
+        "latitude": 38.372778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.066667,
+          38.372778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:019",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:019",
+        "sequence": 19,
+        "waypoint": "BELSU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.286389,
+        "latitude": 39.130833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.286389,
+          39.130833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:020",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:020",
+        "sequence": 20,
+        "waypoint": "BUK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 33.104917,
+        "latitude": 40.241861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.104917,
+          40.241861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:021",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:021",
+        "sequence": 21,
+        "waypoint": "DEREL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 32.193333,
+        "latitude": 40.713889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.193333,
+          40.713889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:022",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:022",
+        "sequence": 22,
+        "waypoint": "AKCAK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.724722,
+        "latitude": 41.428889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.724722,
+          41.428889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:023",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:023",
+        "sequence": 23,
+        "waypoint": "MAKOL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.142778,
+        "latitude": 42.170556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.142778,
+          42.170556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:024",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:024",
+        "sequence": 24,
+        "waypoint": "UTEKA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 22.392222,
+        "latitude": 43.912222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.392222,
+          43.912222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:025",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:025",
+        "sequence": 25,
+        "waypoint": "DONIV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.169556,
+        "latitude": 44.748861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.169556,
+          44.748861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:026",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:026",
+        "sequence": 26,
+        "waypoint": "PARAK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 20.094167,
+        "latitude": 46.163889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.094167,
+          46.163889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:027",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:027",
+        "sequence": 27,
+        "waypoint": "BALUX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.129444,
+        "latitude": 47.340833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.129444,
+          47.340833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:028",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:028",
+        "sequence": 28,
+        "waypoint": "TORNO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 18.49,
+        "latitude": 47.539722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.49,
+          47.539722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:029",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:029",
+        "sequence": 29,
+        "waypoint": "NATEX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.5,
+        "latitude": 47.746944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5,
+          47.746944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LOWW:030",
+      "properties": {
+        "route_id": "OKKK-LOWW",
+        "route_name": "OKKK-LOWW",
+        "origin": "OKKK",
+        "destination": "LOWW",
+        "point_count": 30,
+        "source_file": "OKKK-LOWW.gpx",
+        "point_id": "OKKK-LOWW:030",
+        "sequence": 30,
+        "waypoint": "LOWW",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 16.569722,
+        "latitude": 48.110278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.569722,
+          48.110278
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>DTTA-LHBP</name>
+    <rtept lat="36.851111" lon="10.226944">
+      <name>DTTA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.236111" lon="10.640556">
+      <name>ICANI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.442778" lon="10.863333">
+      <name>SIRVI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.673611" lon="11.113889">
+      <name>SUSIP</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.929722" lon="11.394444">
+      <name>PININ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.869167" lon="12.447500">
+      <name>GIANO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.598889" lon="13.060000">
+      <name>DORAS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.055833" lon="15.205556">
+      <name>VAPUP</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="45.201528" lon="16.675889">
+      <name>TEBLI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="46.240278" lon="16.962778">
+      <name>KOPRY</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="46.994167" lon="18.566944">
+      <name>ULZAK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="47.439444" lon="19.261944">
+      <name>LHBP</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

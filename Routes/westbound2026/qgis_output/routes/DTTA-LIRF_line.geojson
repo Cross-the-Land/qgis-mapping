@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.226944,
+            36.851111
+          ],
+          [
+            10.640556,
+            37.236111
+          ],
+          [
+            10.863333,
+            37.442778
+          ],
+          [
+            10.959167,
+            37.742778
+          ],
+          [
+            11.356944,
+            39.249722
+          ],
+          [
+            11.631667,
+            40.385833
+          ],
+          [
+            11.832778,
+            40.861111
+          ],
+          [
+            11.794722,
+            41.384719
+          ],
+          [
+            12.238889,
+            41.800278
+          ]
+        ]
+      }
+    }
+  ]
+}

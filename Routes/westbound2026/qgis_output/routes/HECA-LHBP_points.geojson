@@ -1,0 +1,812 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:001",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:001",
+        "sequence": 1,
+        "waypoint": "HECA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 31.413889,
+        "latitude": 30.111389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.413889,
+          30.111389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:002",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:002",
+        "sequence": 2,
+        "waypoint": "CVO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.388417,
+        "latitude": 30.092306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.388417,
+          30.092306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:003",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:003",
+        "sequence": 3,
+        "waypoint": "LAGVI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.512222,
+        "latitude": 30.751944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.512222,
+          30.751944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:004",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:004",
+        "sequence": 4,
+        "waypoint": "ULOMO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.420833,
+        "latitude": 31.250833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.420833,
+          31.250833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:005",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:005",
+        "sequence": 5,
+        "waypoint": "SENTO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.364444,
+        "latitude": 31.554722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.364444,
+          31.554722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:006",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:006",
+        "sequence": 6,
+        "waypoint": "DARUR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.332222,
+        "latitude": 31.865556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.332222,
+          31.865556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:007",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:007",
+        "sequence": 7,
+        "waypoint": "NIVTI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.311944,
+        "latitude": 32.057222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.311944,
+          32.057222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:008",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:008",
+        "sequence": 8,
+        "waypoint": "IMPIP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.299722,
+        "latitude": 32.171667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.299722,
+          32.171667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:009",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:009",
+        "sequence": 9,
+        "waypoint": "AZMEY",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.255833,
+        "latitude": 32.578333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.255833,
+          32.578333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:010",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:010",
+        "sequence": 10,
+        "waypoint": "RASDA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.95,
+        "latitude": 33.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.95,
+          33.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:011",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:011",
+        "sequence": 11,
+        "waypoint": "USEBE",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.917778,
+        "latitude": 33.952778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.917778,
+          33.952778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:012",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:012",
+        "sequence": 12,
+        "waypoint": "KOMEZ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.901667,
+        "latitude": 34.243056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.901667,
+          34.243056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:013",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:013",
+        "sequence": 13,
+        "waypoint": "MAROS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.883333,
+        "latitude": 34.616667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.883333,
+          34.616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:014",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:014",
+        "sequence": 14,
+        "waypoint": "PEDER",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.864722,
+        "latitude": 35.178056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.864722,
+          35.178056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:015",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:015",
+        "sequence": 15,
+        "waypoint": "TOMBI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.824444,
+        "latitude": 36.040556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.824444,
+          36.040556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:016",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:016",
+        "sequence": 16,
+        "waypoint": "DERYA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.811944,
+        "latitude": 36.415556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.811944,
+          36.415556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:017",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:017",
+        "sequence": 17,
+        "waypoint": "AYT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.794472,
+        "latitude": 36.920806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.794472,
+          36.920806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:018",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:018",
+        "sequence": 18,
+        "waypoint": "EKNUD",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.810178,
+        "latitude": 38.129297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.810178,
+          38.129297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:019",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:019",
+        "sequence": 19,
+        "waypoint": "OSDAN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.690278,
+        "latitude": 38.851944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.690278,
+          38.851944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:020",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:020",
+        "sequence": 20,
+        "waypoint": "HANKO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.266111,
+        "latitude": 39.498889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.266111,
+          39.498889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:021",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:021",
+        "sequence": 21,
+        "waypoint": "EMBIX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.018056,
+        "latitude": 39.961944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.018056,
+          39.961944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:022",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:022",
+        "sequence": 22,
+        "waypoint": "INSEG",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.636389,
+        "latitude": 40.661389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.636389,
+          40.661389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:023",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:023",
+        "sequence": 23,
+        "waypoint": "BKZ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.142889,
+        "latitude": 41.126972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.142889,
+          41.126972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:024",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:024",
+        "sequence": 24,
+        "waypoint": "DIGBO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 28.404444,
+        "latitude": 41.493611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.404444,
+          41.493611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:025",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:025",
+        "sequence": 25,
+        "waypoint": "REZOV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 28.110556,
+        "latitude": 41.983333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.110556,
+          41.983333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:026",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:026",
+        "sequence": 26,
+        "waypoint": "ARNOV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 26.768056,
+        "latitude": 42.747778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.768056,
+          42.747778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:027",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:027",
+        "sequence": 27,
+        "waypoint": "AMTOV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 26.151944,
+        "latitude": 43.1725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.151944,
+          43.1725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:028",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:028",
+        "sequence": 28,
+        "waypoint": "APROB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.0025,
+        "latitude": 43.973333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0025,
+          43.973333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:029",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:029",
+        "sequence": 29,
+        "waypoint": "DEGET",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.267222,
+        "latitude": 46.493611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.267222,
+          46.493611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:030",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:030",
+        "sequence": 30,
+        "waypoint": "KEZAL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 20.231389,
+        "latitude": 47.153611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.231389,
+          47.153611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LHBP:031",
+      "properties": {
+        "route_id": "HECA-LHBP",
+        "route_name": "HECA-LHBP",
+        "origin": "HECA",
+        "destination": "LHBP",
+        "point_count": 31,
+        "source_file": "HECA-LHBP.gpx",
+        "point_id": "HECA-LHBP:031",
+        "sequence": 31,
+        "waypoint": "LHBP",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 19.261944,
+        "latitude": 47.439444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.261944,
+          47.439444
+        ]
+      }
+    }
+  ]
+}

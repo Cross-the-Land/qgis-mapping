@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>OKKK-LIRF</name>
+    <rtept lat="29.226767" lon="47.979953">
+      <name>OKKK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="28.649167" lon="47.615556">
+      <name>NIDAP</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="28.709444" lon="46.874444">
+      <name>BOSID</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="28.751667" lon="46.335000">
+      <name>SIBSA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="28.797500" lon="45.691389">
+      <name>LAKSO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="28.860000" lon="44.745278">
+      <name>VATIM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="28.953611" lon="43.521944">
+      <name>RASMO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.043056" lon="42.185278">
+      <name>ORSAL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.058056" lon="41.939167">
+      <name>TOLDI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.087500" lon="41.429444">
+      <name>NORGI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.132778" lon="40.577778">
+      <name>ULAKO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.109722" lon="39.906944">
+      <name>NIMAR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.110833" lon="38.930556">
+      <name>ENABI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.107778" lon="38.376944">
+      <name>ASTUM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.098333" lon="37.508889">
+      <name>OBNAK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.087500" lon="36.480556">
+      <name>EGSIS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.034722" lon="34.847222">
+      <name>RUKET</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.033333" lon="34.758056">
+      <name>KITIT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.032222" lon="34.671111">
+      <name>NOVPA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.241111" lon="33.954444">
+      <name>SIMSA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.600000" lon="32.685000">
+      <name>SISIK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.783333" lon="31.868333">
+      <name>MENLI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.915000" lon="31.663056">
+      <name>GESON</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.092306" lon="31.388417">
+      <name>CVO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.091944" lon="30.301667">
+      <name>MENKU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.187500" lon="29.950833">
+      <name>NOZ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.585556" lon="29.309722">
+      <name>SOBAX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.731111" lon="29.071944">
+      <name>NABSI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="34.000000" lon="26.816667">
+      <name>TANSA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.154444" lon="24.938889">
+      <name>OTREX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.120278" lon="23.500278">
+      <name>MONUV</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.066447" lon="22.023925">
+      <name>KAM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.112953" lon="20.504683">
+      <name>KFN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.313889" lon="20.253611">
+      <name>ENESI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.293333" lon="19.000000">
+      <name>LATAN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.107778" lon="15.171389">
+      <name>EKTOL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.190833" lon="14.653333">
+      <name>IPKAM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.296778" lon="13.970667">
+      <name>TEA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.446019" lon="13.680528">
+      <name>SIPRO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.541111" lon="12.918056">
+      <name>LAT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.800278" lon="12.238889">
+      <name>LIRF</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

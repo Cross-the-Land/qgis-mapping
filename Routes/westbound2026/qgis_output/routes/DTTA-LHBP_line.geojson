@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.226944,
+            36.851111
+          ],
+          [
+            10.640556,
+            37.236111
+          ],
+          [
+            10.863333,
+            37.442778
+          ],
+          [
+            11.113889,
+            37.673611
+          ],
+          [
+            11.394444,
+            37.929722
+          ],
+          [
+            12.4475,
+            38.869167
+          ],
+          [
+            13.06,
+            39.598889
+          ],
+          [
+            15.205556,
+            43.055833
+          ],
+          [
+            16.675889,
+            45.201528
+          ],
+          [
+            16.962778,
+            46.240278
+          ],
+          [
+            18.566944,
+            46.994167
+          ],
+          [
+            19.261944,
+            47.439444
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF:001",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx",
+        "point_id": "DTTA-LIRF:001",
+        "sequence": 1,
+        "waypoint": "DTTA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 10.226944,
+        "latitude": 36.851111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.226944,
+          36.851111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF:002",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx",
+        "point_id": "DTTA-LIRF:002",
+        "sequence": 2,
+        "waypoint": "ICANI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.640556,
+        "latitude": 37.236111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.640556,
+          37.236111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF:003",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx",
+        "point_id": "DTTA-LIRF:003",
+        "sequence": 3,
+        "waypoint": "SIRVI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.863333,
+        "latitude": 37.442778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.863333,
+          37.442778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF:004",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx",
+        "point_id": "DTTA-LIRF:004",
+        "sequence": 4,
+        "waypoint": "NIBEL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.959167,
+        "latitude": 37.742778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.959167,
+          37.742778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF:005",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx",
+        "point_id": "DTTA-LIRF:005",
+        "sequence": 5,
+        "waypoint": "GERMO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.356944,
+        "latitude": 39.249722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.356944,
+          39.249722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF:006",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx",
+        "point_id": "DTTA-LIRF:006",
+        "sequence": 6,
+        "waypoint": "BETOT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.631667,
+        "latitude": 40.385833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631667,
+          40.385833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF:007",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx",
+        "point_id": "DTTA-LIRF:007",
+        "sequence": 7,
+        "waypoint": "TURMO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.832778,
+        "latitude": 40.861111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.832778,
+          40.861111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF:008",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx",
+        "point_id": "DTTA-LIRF:008",
+        "sequence": 8,
+        "waypoint": "ESINO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.794722,
+        "latitude": 41.384719
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.794722,
+          41.384719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LIRF:009",
+      "properties": {
+        "route_id": "DTTA-LIRF",
+        "route_name": "DTTA-LIRF",
+        "origin": "DTTA",
+        "destination": "LIRF",
+        "point_count": 9,
+        "source_file": "DTTA-LIRF.gpx",
+        "point_id": "DTTA-LIRF:009",
+        "sequence": 9,
+        "waypoint": "LIRF",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 12.238889,
+        "latitude": 41.800278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.238889,
+          41.800278
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR:001",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx",
+        "point_id": "DTTA-LKPR:001",
+        "sequence": 1,
+        "waypoint": "DTTA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 10.226944,
+        "latitude": 36.851111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.226944,
+          36.851111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR:002",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx",
+        "point_id": "DTTA-LKPR:002",
+        "sequence": 2,
+        "waypoint": "ICANI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.640556,
+        "latitude": 37.236111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.640556,
+          37.236111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR:003",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx",
+        "point_id": "DTTA-LKPR:003",
+        "sequence": 3,
+        "waypoint": "SIRVI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.863333,
+        "latitude": 37.442778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.863333,
+          37.442778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR:004",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx",
+        "point_id": "DTTA-LKPR:004",
+        "sequence": 4,
+        "waypoint": "NIBEL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.959167,
+        "latitude": 37.742778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.959167,
+          37.742778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR:005",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx",
+        "point_id": "DTTA-LKPR:005",
+        "sequence": 5,
+        "waypoint": "BETOT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.631667,
+        "latitude": 40.385833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631667,
+          40.385833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR:006",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx",
+        "point_id": "DTTA-LKPR:006",
+        "sequence": 6,
+        "waypoint": "CHI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 12.281444,
+        "latitude": 45.071083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.281444,
+          45.071083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR:007",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx",
+        "point_id": "DTTA-LKPR:007",
+        "sequence": 7,
+        "waypoint": "BUDEX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 14.336028,
+        "latitude": 48.948328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.336028,
+          48.948328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR:008",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx",
+        "point_id": "DTTA-LKPR:008",
+        "sequence": 8,
+        "waypoint": "APRAQ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 14.1225,
+        "latitude": 49.648333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1225,
+          49.648333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR:009",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx",
+        "point_id": "DTTA-LKPR:009",
+        "sequence": 9,
+        "waypoint": "LKPR",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 14.26,
+        "latitude": 50.100833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26,
+          50.100833
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,942 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:001",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:001",
+        "sequence": 1,
+        "waypoint": "OERK",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 46.708056,
+        "latitude": 24.962778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.708056,
+          24.962778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:002",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:002",
+        "sequence": 2,
+        "waypoint": "IVONU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 45.675,
+        "latitude": 25.056389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.675,
+          25.056389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:003",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:003",
+        "sequence": 3,
+        "waypoint": "SOKOP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 44.574722,
+        "latitude": 25.531944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.574722,
+          25.531944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:004",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:004",
+        "sequence": 4,
+        "waypoint": "GAS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 43.779611,
+        "latitude": 26.298083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.779611,
+          26.298083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:005",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:005",
+        "sequence": 5,
+        "waypoint": "MODIV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 43.144444,
+        "latitude": 26.645
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.144444,
+          26.645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:006",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:006",
+        "sequence": 6,
+        "waypoint": "DAROP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 42.326667,
+        "latitude": 27.084722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.326667,
+          27.084722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:007",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:007",
+        "sequence": 7,
+        "waypoint": "HIL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.682917,
+        "latitude": 27.425056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.682917,
+          27.425056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:008",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:008",
+        "sequence": 8,
+        "waypoint": "EGVOP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.173333,
+        "latitude": 27.916111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.173333,
+          27.916111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:009",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:009",
+        "sequence": 9,
+        "waypoint": "NIMAR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 39.906944,
+        "latitude": 29.109722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.906944,
+          29.109722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:010",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:010",
+        "sequence": 10,
+        "waypoint": "ENABI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 38.930556,
+        "latitude": 29.110833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.930556,
+          29.110833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:011",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:011",
+        "sequence": 11,
+        "waypoint": "ASTUM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 38.376944,
+        "latitude": 29.107778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.376944,
+          29.107778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:012",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:012",
+        "sequence": 12,
+        "waypoint": "OBNAK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 37.508889,
+        "latitude": 29.098333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.508889,
+          29.098333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:013",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:013",
+        "sequence": 13,
+        "waypoint": "EGSIS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 36.480556,
+        "latitude": 29.0875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.480556,
+          29.0875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:014",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:014",
+        "sequence": 14,
+        "waypoint": "RUKET",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.847222,
+        "latitude": 29.034722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.847222,
+          29.034722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:015",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:015",
+        "sequence": 15,
+        "waypoint": "KITIT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.758056,
+        "latitude": 29.033333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.758056,
+          29.033333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:016",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:016",
+        "sequence": 16,
+        "waypoint": "NOVPA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.671111,
+        "latitude": 29.032222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.671111,
+          29.032222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:017",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:017",
+        "sequence": 17,
+        "waypoint": "SIMSA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 33.954444,
+        "latitude": 29.241111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.954444,
+          29.241111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:018",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:018",
+        "sequence": 18,
+        "waypoint": "SISIK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 32.685,
+        "latitude": 29.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.685,
+          29.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:019",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:019",
+        "sequence": 19,
+        "waypoint": "MENLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.868333,
+        "latitude": 29.783333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.868333,
+          29.783333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:020",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:020",
+        "sequence": 20,
+        "waypoint": "GESON",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.663056,
+        "latitude": 29.915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.663056,
+          29.915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:021",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:021",
+        "sequence": 21,
+        "waypoint": "CVO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.388417,
+        "latitude": 30.092306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.388417,
+          30.092306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:022",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:022",
+        "sequence": 22,
+        "waypoint": "MENKU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.301667,
+        "latitude": 31.091944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.301667,
+          31.091944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:023",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:023",
+        "sequence": 23,
+        "waypoint": "MUXEB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.565,
+        "latitude": 32.096944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.565,
+          32.096944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:024",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:024",
+        "sequence": 24,
+        "waypoint": "ANTAR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 28.266667,
+        "latitude": 33.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.266667,
+          33.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:025",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:025",
+        "sequence": 25,
+        "waypoint": "GUDIS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 27.766111,
+        "latitude": 34.535556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.766111,
+          34.535556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:026",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:026",
+        "sequence": 26,
+        "waypoint": "KOPAR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 26.688611,
+        "latitude": 36.830278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.688611,
+          36.830278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:027",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:027",
+        "sequence": 27,
+        "waypoint": "RIGRO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.874167,
+        "latitude": 37.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.874167,
+          37.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:028",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:028",
+        "sequence": 28,
+        "waypoint": "LMO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.237189,
+        "latitude": 39.919539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.237189,
+          39.919539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:029",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:029",
+        "sequence": 29,
+        "waypoint": "ATFIR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 23.774722,
+        "latitude": 41.401667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.774722,
+          41.401667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:030",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:030",
+        "sequence": 30,
+        "waypoint": "USALI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 23.645556,
+        "latitude": 42.301944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.645556,
+          42.301944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:031",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:031",
+        "sequence": 31,
+        "waypoint": "RESLA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 23.312778,
+        "latitude": 43.328333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.312778,
+          43.328333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:032",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:032",
+        "sequence": 32,
+        "waypoint": "ERDOM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 23.289167,
+        "latitude": 43.5175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.289167,
+          43.5175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:033",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:033",
+        "sequence": 33,
+        "waypoint": "LOMOS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 23.25,
+        "latitude": 43.833333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.25,
+          43.833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:034",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:034",
+        "sequence": 34,
+        "waypoint": "PADGU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 22.610556,
+        "latitude": 44.778611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.610556,
+          44.778611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:035",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:035",
+        "sequence": 35,
+        "waypoint": "KEZAL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 20.231389,
+        "latitude": 47.153611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.231389,
+          47.153611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OERK-LHBP:036",
+      "properties": {
+        "route_id": "OERK-LHBP",
+        "route_name": "OERK-LHBP",
+        "origin": "OERK",
+        "destination": "LHBP",
+        "point_count": 36,
+        "source_file": "OERK-LHBP.gpx",
+        "point_id": "OERK-LHBP:036",
+        "sequence": 36,
+        "waypoint": "LHBP",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 19.261944,
+        "latitude": 47.439444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.261944,
+          47.439444
+        ]
+      }
+    }
+  ]
+}

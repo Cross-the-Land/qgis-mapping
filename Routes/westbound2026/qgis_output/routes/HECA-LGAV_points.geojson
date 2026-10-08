@@ -1,0 +1,370 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:001",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:001",
+        "sequence": 1,
+        "waypoint": "HECA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 31.413889,
+        "latitude": 30.111389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.413889,
+          30.111389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:002",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:002",
+        "sequence": 2,
+        "waypoint": "CVO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.388417,
+        "latitude": 30.092306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.388417,
+          30.092306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:003",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:003",
+        "sequence": 3,
+        "waypoint": "MENKU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.301667,
+        "latitude": 31.091944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.301667,
+          31.091944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:004",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:004",
+        "sequence": 4,
+        "waypoint": "NOZ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.950833,
+        "latitude": 31.1875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.950833,
+          31.1875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:005",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:005",
+        "sequence": 5,
+        "waypoint": "GOMVA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.4375,
+        "latitude": 32.002778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4375,
+          32.002778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:006",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:006",
+        "sequence": 6,
+        "waypoint": "NOGLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.303056,
+        "latitude": 32.213611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.303056,
+          32.213611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:007",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:007",
+        "sequence": 7,
+        "waypoint": "ANTAR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 28.266667,
+        "latitude": 33.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.266667,
+          33.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:008",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:008",
+        "sequence": 8,
+        "waypoint": "KPC",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 27.146911,
+        "latitude": 35.421822
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.146911,
+          35.421822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:009",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:009",
+        "sequence": 9,
+        "waypoint": "TIPAS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 26.763333,
+        "latitude": 35.907778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.763333,
+          35.907778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:010",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:010",
+        "sequence": 10,
+        "waypoint": "ASTIS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 26.232778,
+        "latitude": 36.565278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.232778,
+          36.565278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:011",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:011",
+        "sequence": 11,
+        "waypoint": "PEROK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.451667,
+        "latitude": 37.204444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.451667,
+          37.204444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:012",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:012",
+        "sequence": 12,
+        "waypoint": "RIPLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.362778,
+        "latitude": 37.275833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.362778,
+          37.275833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:013",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:013",
+        "sequence": 13,
+        "waypoint": "VARIX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.034167,
+        "latitude": 37.363889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.034167,
+          37.363889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV:014",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx",
+        "point_id": "HECA-LGAV:014",
+        "sequence": 14,
+        "waypoint": "LGAV",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 23.9445,
+        "latitude": 37.9367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9445,
+          37.9367
+        ]
+      }
+    }
+  ]
+}

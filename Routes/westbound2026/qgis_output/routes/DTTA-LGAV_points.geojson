@@ -1,0 +1,318 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:001",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:001",
+        "sequence": 1,
+        "waypoint": "DTTA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 10.226944,
+        "latitude": 36.851111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.226944,
+          36.851111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:002",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:002",
+        "sequence": 2,
+        "waypoint": "CBN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.088917,
+        "latitude": 36.895194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.088917,
+          36.895194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:003",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:003",
+        "sequence": 3,
+        "waypoint": "TUPAL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.5,
+        "latitude": 37.189167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5,
+          37.189167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:004",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:004",
+        "sequence": 4,
+        "waypoint": "MEGAN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.996111,
+        "latitude": 37.538056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.996111,
+          37.538056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:005",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:005",
+        "sequence": 5,
+        "waypoint": "ENEPA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 13.999444,
+        "latitude": 37.773333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.999444,
+          37.773333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:006",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:006",
+        "sequence": 6,
+        "waypoint": "UXUTA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 14.690147,
+        "latitude": 37.935036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.690147,
+          37.935036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:007",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:007",
+        "sequence": 7,
+        "waypoint": "RCA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 15.645278,
+        "latitude": 38.076583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.645278,
+          38.076583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:008",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:008",
+        "sequence": 8,
+        "waypoint": "ROXOM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.089444,
+        "latitude": 38.280556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.089444,
+          38.280556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:009",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:009",
+        "sequence": 9,
+        "waypoint": "RUTOM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.0,
+        "latitude": 38.518333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0,
+          38.518333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:010",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:010",
+        "sequence": 10,
+        "waypoint": "ARA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.429411,
+        "latitude": 38.158983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.429411,
+          38.158983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:011",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:011",
+        "sequence": 11,
+        "waypoint": "NEMES",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 22.580833,
+        "latitude": 37.706389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.580833,
+          37.706389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV:012",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx",
+        "point_id": "DTTA-LGAV:012",
+        "sequence": 12,
+        "waypoint": "LGAV",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 23.9445,
+        "latitude": 37.9367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9445,
+          37.9367
+        ]
+      }
+    }
+  ]
+}

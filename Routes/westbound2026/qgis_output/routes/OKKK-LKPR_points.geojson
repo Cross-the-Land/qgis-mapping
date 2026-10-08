@@ -1,0 +1,1098 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:001",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:001",
+        "sequence": 1,
+        "waypoint": "OKKK",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 47.979953,
+        "latitude": 29.226767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.979953,
+          29.226767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:002",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:002",
+        "sequence": 2,
+        "waypoint": "TASMI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 47.918056,
+        "latitude": 30.022222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.918056,
+          30.022222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:003",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:003",
+        "sequence": 3,
+        "waypoint": "GADSI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 47.187778,
+        "latitude": 30.566111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.187778,
+          30.566111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:004",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:004",
+        "sequence": 4,
+        "waypoint": "KODAV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 46.066667,
+        "latitude": 31.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.066667,
+          31.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:005",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:005",
+        "sequence": 5,
+        "waypoint": "RESAK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 45.264444,
+        "latitude": 32.551389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.264444,
+          32.551389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:006",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:006",
+        "sequence": 6,
+        "waypoint": "SEPTU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 44.733333,
+        "latitude": 33.216667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.733333,
+          33.216667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:007",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:007",
+        "sequence": 7,
+        "waypoint": "NAMDI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 44.6925,
+        "latitude": 34.5075
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6925,
+          34.5075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:008",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:008",
+        "sequence": 8,
+        "waypoint": "OTALO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 44.316667,
+        "latitude": 35.283333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.316667,
+          35.283333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:009",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:009",
+        "sequence": 9,
+        "waypoint": "TOMSI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 44.041389,
+        "latitude": 35.816111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.041389,
+          35.816111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:010",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:010",
+        "sequence": 10,
+        "waypoint": "VUSEB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 43.8,
+        "latitude": 36.276944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8,
+          36.276944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:011",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:011",
+        "sequence": 11,
+        "waypoint": "ROXOP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 43.556111,
+        "latitude": 36.745833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.556111,
+          36.745833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:012",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:012",
+        "sequence": 12,
+        "waypoint": "NINVA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 43.216667,
+        "latitude": 37.35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.216667,
+          37.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:013",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:013",
+        "sequence": 13,
+        "waypoint": "EFFEZ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 42.655278,
+        "latitude": 37.588333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.655278,
+          37.588333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:014",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:014",
+        "sequence": 14,
+        "waypoint": "SRT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.881972,
+        "latitude": 37.910667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.881972,
+          37.910667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:015",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:015",
+        "sequence": 15,
+        "waypoint": "RENGI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.08,
+        "latitude": 38.463889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.08,
+          38.463889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:016",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:016",
+        "sequence": 16,
+        "waypoint": "NAREN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 40.825,
+        "latitude": 38.630556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.825,
+          38.630556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:017",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:017",
+        "sequence": 17,
+        "waypoint": "TALIL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 39.972222,
+        "latitude": 39.188889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.972222,
+          39.188889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:018",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:018",
+        "sequence": 18,
+        "waypoint": "KONUK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 39.468056,
+        "latitude": 39.511667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.468056,
+          39.511667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:019",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:019",
+        "sequence": 19,
+        "waypoint": "EBEDI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 39.123611,
+        "latitude": 39.725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.123611,
+          39.725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:020",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:020",
+        "sequence": 20,
+        "waypoint": "ODALI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 38.15,
+        "latitude": 40.327778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.15,
+          40.327778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:021",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:021",
+        "sequence": 21,
+        "waypoint": "NELPO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 37.675833,
+        "latitude": 40.47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.675833,
+          40.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:022",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:022",
+        "sequence": 22,
+        "waypoint": "APVAS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 36.668056,
+        "latitude": 40.764167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.668056,
+          40.764167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:023",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:023",
+        "sequence": 23,
+        "waypoint": "USANU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 36.0625,
+        "latitude": 40.935556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0625,
+          40.935556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:024",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:024",
+        "sequence": 24,
+        "waypoint": "ODPOT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 35.866111,
+        "latitude": 40.990278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.866111,
+          40.990278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:025",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:025",
+        "sequence": 25,
+        "waypoint": "RUXEV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.862222,
+        "latitude": 41.263611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.862222,
+          41.263611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:026",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:026",
+        "sequence": 26,
+        "waypoint": "EKSUK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.337222,
+        "latitude": 41.4025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.337222,
+          41.4025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:027",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:027",
+        "sequence": 27,
+        "waypoint": "UPKAG",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.135278,
+        "latitude": 41.454722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.135278,
+          41.454722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:028",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:028",
+        "sequence": 28,
+        "waypoint": "VAXEB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 33.578611,
+        "latitude": 41.596944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.578611,
+          41.596944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:029",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:029",
+        "sequence": 29,
+        "waypoint": "ESOSU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 33.538056,
+        "latitude": 41.607222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.538056,
+          41.607222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:030",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:030",
+        "sequence": 30,
+        "waypoint": "TIVUG",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 33.031111,
+        "latitude": 41.733611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.031111,
+          41.733611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:031",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:031",
+        "sequence": 31,
+        "waypoint": "EVPUV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 32.759444,
+        "latitude": 41.800278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.759444,
+          41.800278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:032",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:032",
+        "sequence": 32,
+        "waypoint": "DEVMU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 32.461111,
+        "latitude": 41.8725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.461111,
+          41.8725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:033",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:033",
+        "sequence": 33,
+        "waypoint": "EVPIM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 32.366667,
+        "latitude": 41.895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.366667,
+          41.895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:034",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:034",
+        "sequence": 34,
+        "waypoint": "BEDOP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 32.232778,
+        "latitude": 41.927222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.232778,
+          41.927222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:035",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:035",
+        "sequence": 35,
+        "waypoint": "MODAU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.885833,
+        "latitude": 42.009167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.885833,
+          42.009167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:036",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:036",
+        "sequence": 36,
+        "waypoint": "ODMAX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.403056,
+        "latitude": 42.121389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.403056,
+          42.121389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:037",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:037",
+        "sequence": 37,
+        "waypoint": "NEGEM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.870278,
+        "latitude": 42.461667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.870278,
+          42.461667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:038",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:038",
+        "sequence": 38,
+        "waypoint": "BUDOP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.496667,
+        "latitude": 46.6875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.496667,
+          46.6875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:039",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:039",
+        "sequence": 39,
+        "waypoint": "LALES",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.709514,
+        "latitude": 48.865172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.709514,
+          48.865172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:040",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:040",
+        "sequence": 40,
+        "waypoint": "TUMKA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 15.947267,
+        "latitude": 49.407894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.947267,
+          49.407894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:041",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:041",
+        "sequence": 41,
+        "waypoint": "VLM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 15.066742,
+        "latitude": 49.704272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.066742,
+          49.704272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OKKK-LKPR:042",
+      "properties": {
+        "route_id": "OKKK-LKPR",
+        "route_name": "OKKK-LKPR",
+        "origin": "OKKK",
+        "destination": "LKPR",
+        "point_count": 42,
+        "source_file": "OKKK-LKPR.gpx",
+        "point_id": "OKKK-LKPR:042",
+        "sequence": 42,
+        "waypoint": "LKPR",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 14.26,
+        "latitude": 50.100833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26,
+          50.100833
+        ]
+      }
+    }
+  ]
+}

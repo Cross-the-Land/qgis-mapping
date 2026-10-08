@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>HECA-LKPR</name>
+    <rtept lat="30.111389" lon="31.413889">
+      <name>HECA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.092306" lon="31.388417">
+      <name>CVO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.091944" lon="30.301667">
+      <name>MENKU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.187500" lon="29.950833">
+      <name>NOZ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.585556" lon="29.309722">
+      <name>SOBAX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.731111" lon="29.071944">
+      <name>NABSI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="32.711111" lon="27.432222">
+      <name>LAKBA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="32.975556" lon="26.976111">
+      <name>ITEXO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="34.000000" lon="25.150000">
+      <name>METRU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.072500" lon="20.594722">
+      <name>DIMIS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.228333" lon="19.335000">
+      <name>RETRA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="46.309675" lon="15.976167">
+      <name>PETOV</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="48.948328" lon="14.336028">
+      <name>BUDEX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="49.648333" lon="14.122500">
+      <name>APRAQ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="50.100833" lon="14.260000">
+      <name>LKPR</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HECA-LGAV",
+      "properties": {
+        "route_id": "HECA-LGAV",
+        "route_name": "HECA-LGAV",
+        "origin": "HECA",
+        "destination": "LGAV",
+        "point_count": 14,
+        "source_file": "HECA-LGAV.gpx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.413889,
+            30.111389
+          ],
+          [
+            31.388417,
+            30.092306
+          ],
+          [
+            30.301667,
+            31.091944
+          ],
+          [
+            29.950833,
+            31.1875
+          ],
+          [
+            29.4375,
+            32.002778
+          ],
+          [
+            29.303056,
+            32.213611
+          ],
+          [
+            28.266667,
+            33.8
+          ],
+          [
+            27.146911,
+            35.421822
+          ],
+          [
+            26.763333,
+            35.907778
+          ],
+          [
+            26.232778,
+            36.565278
+          ],
+          [
+            25.451667,
+            37.204444
+          ],
+          [
+            25.362778,
+            37.275833
+          ],
+          [
+            25.034167,
+            37.363889
+          ],
+          [
+            23.9445,
+            37.9367
+          ]
+        ]
+      }
+    }
+  ]
+}

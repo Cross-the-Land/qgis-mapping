@@ -1,0 +1,1930 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:001",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:001",
+        "sequence": 1,
+        "waypoint": "OMDB",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 55.364444,
+        "latitude": 25.252778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.364444,
+          25.252778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:002",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:002",
+        "sequence": 2,
+        "waypoint": "SENPA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.53625,
+        "latitude": 25.333222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.53625,
+          25.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:003",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:003",
+        "sequence": 3,
+        "waypoint": "RUDUK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.280556,
+        "latitude": 25.402222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.280556,
+          25.402222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:004",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:004",
+        "sequence": 4,
+        "waypoint": "ULIVA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.103056,
+        "latitude": 25.446389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.103056,
+          25.446389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:005",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:005",
+        "sequence": 5,
+        "waypoint": "SISOB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 53.7525,
+        "latitude": 25.530556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.7525,
+          25.530556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:006",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:006",
+        "sequence": 6,
+        "waypoint": "PURLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 53.41,
+        "latitude": 25.612222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.41,
+          25.612222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:007",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:007",
+        "sequence": 7,
+        "waypoint": "ALPOB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 53.015278,
+        "latitude": 25.705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.015278,
+          25.705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:008",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:008",
+        "sequence": 8,
+        "waypoint": "ROTAG",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 52.605833,
+        "latitude": 25.898056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.605833,
+          25.898056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:009",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:009",
+        "sequence": 9,
+        "waypoint": "ITMUB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 52.400556,
+        "latitude": 25.988611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.400556,
+          25.988611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:010",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:010",
+        "sequence": 10,
+        "waypoint": "MODOG",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 51.993056,
+        "latitude": 26.17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.993056,
+          26.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:011",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:011",
+        "sequence": 11,
+        "waypoint": "RAMKI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 51.940294,
+        "latitude": 26.193889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.940294,
+          26.193889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:012",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:012",
+        "sequence": 12,
+        "waypoint": "RABLA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 51.809356,
+        "latitude": 26.251592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.809356,
+          26.251592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:013",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:013",
+        "sequence": 13,
+        "waypoint": "OBROS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 51.661244,
+        "latitude": 26.3176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.661244,
+          26.3176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:014",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:014",
+        "sequence": 14,
+        "waypoint": "SOLOB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 51.525556,
+        "latitude": 26.378056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.525556,
+          26.378056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:015",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:015",
+        "sequence": 15,
+        "waypoint": "ALREP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 51.369167,
+        "latitude": 26.428056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.369167,
+          26.428056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:016",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:016",
+        "sequence": 16,
+        "waypoint": "ORDIG",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 51.2675,
+        "latitude": 26.460556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.2675,
+          26.460556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:017",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:017",
+        "sequence": 17,
+        "waypoint": "MEDMA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 50.915006,
+        "latitude": 26.572594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.915006,
+          26.572594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:018",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:018",
+        "sequence": 18,
+        "waypoint": "OBMON",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 50.690278,
+        "latitude": 26.642222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.690278,
+          26.642222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:019",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:019",
+        "sequence": 19,
+        "waypoint": "EGMOR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 50.485203,
+        "latitude": 26.703003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.485203,
+          26.703003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:020",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:020",
+        "sequence": 20,
+        "waypoint": "ULADA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 50.273333,
+        "latitude": 26.7575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.273333,
+          26.7575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:021",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:021",
+        "sequence": 21,
+        "waypoint": "KASES",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 49.9525,
+        "latitude": 26.760556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9525,
+          26.760556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:022",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:022",
+        "sequence": 22,
+        "waypoint": "ALVAP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 49.59,
+        "latitude": 26.763056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.59,
+          26.763056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:023",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:023",
+        "sequence": 23,
+        "waypoint": "DASVA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 49.383611,
+        "latitude": 26.764167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.383611,
+          26.764167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:024",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:024",
+        "sequence": 24,
+        "waypoint": "TAYMA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 48.703333,
+        "latitude": 26.765556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.703333,
+          26.765556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:025",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:025",
+        "sequence": 25,
+        "waypoint": "LABLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 48.35,
+        "latitude": 26.756111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35,
+          26.756111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:026",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:026",
+        "sequence": 26,
+        "waypoint": "MEDGO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 47.8825,
+        "latitude": 26.7425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8825,
+          26.7425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:027",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:027",
+        "sequence": 27,
+        "waypoint": "LUGAL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 47.376389,
+        "latitude": 26.7675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.376389,
+          26.7675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:028",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:028",
+        "sequence": 28,
+        "waypoint": "SIBLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 46.392778,
+        "latitude": 26.916389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.392778,
+          26.916389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:029",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:029",
+        "sequence": 29,
+        "waypoint": "ANTER",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 45.566389,
+        "latitude": 27.036667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.566389,
+          27.036667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:030",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:030",
+        "sequence": 30,
+        "waypoint": "BPN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 45.445278,
+        "latitude": 27.053889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.445278,
+          27.053889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:031",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:031",
+        "sequence": 31,
+        "waypoint": "ALKIR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 44.728611,
+        "latitude": 27.132778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.728611,
+          27.132778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:032",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:032",
+        "sequence": 32,
+        "waypoint": "PASIT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 44.381389,
+        "latitude": 27.169722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.381389,
+          27.169722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:033",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:033",
+        "sequence": 33,
+        "waypoint": "NALBU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 43.701667,
+        "latitude": 27.238889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.701667,
+          27.238889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:034",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:034",
+        "sequence": 34,
+        "waypoint": "LOSEL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 42.429167,
+        "latitude": 27.359722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.429167,
+          27.359722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:035",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:035",
+        "sequence": 35,
+        "waypoint": "HIL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.682917,
+        "latitude": 27.425056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.682917,
+          27.425056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:036",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:036",
+        "sequence": 36,
+        "waypoint": "EGVOP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.173333,
+        "latitude": 27.916111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.173333,
+          27.916111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:037",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:037",
+        "sequence": 37,
+        "waypoint": "NIMAR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 39.906944,
+        "latitude": 29.109722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.906944,
+          29.109722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:038",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:038",
+        "sequence": 38,
+        "waypoint": "ENABI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 38.930556,
+        "latitude": 29.110833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.930556,
+          29.110833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:039",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:039",
+        "sequence": 39,
+        "waypoint": "ASTUM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 38.376944,
+        "latitude": 29.107778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.376944,
+          29.107778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:040",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:040",
+        "sequence": 40,
+        "waypoint": "OBNAK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 37.508889,
+        "latitude": 29.098333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.508889,
+          29.098333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:041",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:041",
+        "sequence": 41,
+        "waypoint": "EGSIS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 36.480556,
+        "latitude": 29.0875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.480556,
+          29.0875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:042",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:042",
+        "sequence": 42,
+        "waypoint": "RUKET",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.847222,
+        "latitude": 29.034722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.847222,
+          29.034722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:043",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:043",
+        "sequence": 43,
+        "waypoint": "KITIT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.758056,
+        "latitude": 29.033333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.758056,
+          29.033333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:044",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:044",
+        "sequence": 44,
+        "waypoint": "NOVPA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.671111,
+        "latitude": 29.032222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.671111,
+          29.032222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:045",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:045",
+        "sequence": 45,
+        "waypoint": "DATOK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.233333,
+        "latitude": 29.606667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.233333,
+          29.606667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:046",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:046",
+        "sequence": 46,
+        "waypoint": "SERMA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 33.142778,
+        "latitude": 31.366667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.142778,
+          31.366667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:047",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:047",
+        "sequence": 47,
+        "waypoint": "GENIV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 33.120556,
+        "latitude": 31.808611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.120556,
+          31.808611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:048",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:048",
+        "sequence": 48,
+        "waypoint": "PASOS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 33.1,
+        "latitude": 32.216667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1,
+          32.216667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:049",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:049",
+        "sequence": 49,
+        "waypoint": "TEZAK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.786389,
+        "latitude": 33.463889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.786389,
+          33.463889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:050",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:050",
+        "sequence": 50,
+        "waypoint": "SAFTA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.666111,
+        "latitude": 33.795556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.666111,
+          33.795556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:051",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:051",
+        "sequence": 51,
+        "waypoint": "TOMBI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.824444,
+        "latitude": 36.040556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.824444,
+          36.040556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:052",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:052",
+        "sequence": 52,
+        "waypoint": "DERYA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.811944,
+        "latitude": 36.415556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.811944,
+          36.415556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:053",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:053",
+        "sequence": 53,
+        "waypoint": "AYT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.794472,
+        "latitude": 36.920806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.794472,
+          36.920806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:054",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:054",
+        "sequence": 54,
+        "waypoint": "OSVEL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.018611,
+        "latitude": 38.481944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.018611,
+          38.481944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:055",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:055",
+        "sequence": 55,
+        "waypoint": "RAVGO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.500833,
+        "latitude": 39.546944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.500833,
+          39.546944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:056",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:056",
+        "sequence": 56,
+        "waypoint": "YASEN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.516111,
+        "latitude": 41.198889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.516111,
+          41.198889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:057",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:057",
+        "sequence": 57,
+        "waypoint": "MAKOL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.142778,
+        "latitude": 42.170556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.142778,
+          42.170556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:058",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:058",
+        "sequence": 58,
+        "waypoint": "TGM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 24.306583,
+        "latitude": 46.446917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.306583,
+          46.446917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:059",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:059",
+        "sequence": 59,
+        "waypoint": "ANAVU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 23.3225,
+        "latitude": 47.260833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3225,
+          47.260833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:060",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:060",
+        "sequence": 60,
+        "waypoint": "KENIN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.927222,
+        "latitude": 48.361667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.927222,
+          48.361667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:061",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:061",
+        "sequence": 61,
+        "waypoint": "LENOV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.010278,
+        "latitude": 49.336389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.010278,
+          49.336389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:062",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:062",
+        "sequence": 62,
+        "waypoint": "ORTEB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 20.569722,
+        "latitude": 50.102222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.569722,
+          50.102222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:063",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:063",
+        "sequence": 63,
+        "waypoint": "NUBLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.887778,
+        "latitude": 51.358611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.887778,
+          51.358611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:064",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:064",
+        "sequence": 64,
+        "waypoint": "PENEX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.277222,
+        "latitude": 52.563056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.277222,
+          52.563056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:065",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:065",
+        "sequence": 65,
+        "waypoint": "IRLUN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 18.614861,
+        "latitude": 53.750583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.614861,
+          53.750583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:066",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:066",
+        "sequence": 66,
+        "waypoint": "KARTI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 18.208056,
+        "latitude": 54.299722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.208056,
+          54.299722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:067",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:067",
+        "sequence": 67,
+        "waypoint": "VAPOS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.826667,
+        "latitude": 54.795278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.826667,
+          54.795278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:068",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:068",
+        "sequence": 68,
+        "waypoint": "DOMAG",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.685556,
+        "latitude": 54.974444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685556,
+          54.974444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:069",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:069",
+        "sequence": 69,
+        "waypoint": "MOTAD",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.505556,
+        "latitude": 55.209444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.505556,
+          55.209444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:070",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:070",
+        "sequence": 70,
+        "waypoint": "PENOR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.161389,
+        "latitude": 55.638611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.161389,
+          55.638611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:071",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:071",
+        "sequence": 71,
+        "waypoint": "OLANU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.718611,
+        "latitude": 57.468889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.718611,
+          57.468889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:072",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:072",
+        "sequence": 72,
+        "waypoint": "ROGMI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 18.001667,
+        "latitude": 58.193889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.001667,
+          58.193889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:073",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:073",
+        "sequence": 73,
+        "waypoint": "NILUG",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.884722,
+        "latitude": 58.815833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.884722,
+          58.815833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-ESSA:074",
+      "properties": {
+        "route_id": "OMDB-ESSA",
+        "route_name": "OMDB-ESSA",
+        "origin": "OMDB",
+        "destination": "ESSA",
+        "point_count": 74,
+        "source_file": "OMDB-ESSA.gpx",
+        "point_id": "OMDB-ESSA:074",
+        "sequence": 74,
+        "waypoint": "ESSA",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 17.918611,
+        "latitude": 59.651944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.918611,
+          59.651944
+        ]
+      }
+    }
+  ]
+}

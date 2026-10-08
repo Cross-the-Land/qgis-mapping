@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DTTA-LKPR",
+      "properties": {
+        "route_id": "DTTA-LKPR",
+        "route_name": "DTTA-LKPR",
+        "origin": "DTTA",
+        "destination": "LKPR",
+        "point_count": 9,
+        "source_file": "DTTC-LKPR.gpx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.226944,
+            36.851111
+          ],
+          [
+            10.640556,
+            37.236111
+          ],
+          [
+            10.863333,
+            37.442778
+          ],
+          [
+            10.959167,
+            37.742778
+          ],
+          [
+            11.631667,
+            40.385833
+          ],
+          [
+            12.281444,
+            45.071083
+          ],
+          [
+            14.336028,
+            48.948328
+          ],
+          [
+            14.1225,
+            49.648333
+          ],
+          [
+            14.26,
+            50.100833
+          ]
+        ]
+      }
+    }
+  ]
+}

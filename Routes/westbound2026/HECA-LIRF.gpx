@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>HECA-LIRF</name>
+    <rtept lat="30.111389" lon="31.413889">
+      <name>HECA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.092306" lon="31.388417">
+      <name>CVO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.091944" lon="30.301667">
+      <name>MENKU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.187500" lon="29.950833">
+      <name>NOZ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.585556" lon="29.309722">
+      <name>SOBAX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.731111" lon="29.071944">
+      <name>NABSI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="32.711111" lon="27.432222">
+      <name>LAKBA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="32.975556" lon="26.976111">
+      <name>ITEXO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="34.000000" lon="25.150000">
+      <name>METRU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.031667" lon="21.608611">
+      <name>TETUZ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.400000" lon="19.000000">
+      <name>LORNO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.996111" lon="17.083056">
+      <name>CRN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.162222" lon="16.326111">
+      <name>LODPA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.146667" lon="14.833333">
+      <name>POLIT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.582444" lon="14.335028">
+      <name>SOR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.296778" lon="13.970667">
+      <name>TEA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.446019" lon="13.680528">
+      <name>SIPRO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.541111" lon="12.918056">
+      <name>LAT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.800278" lon="12.238889">
+      <name>LIRF</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

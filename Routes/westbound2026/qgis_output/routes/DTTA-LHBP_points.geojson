@@ -1,0 +1,318 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:001",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:001",
+        "sequence": 1,
+        "waypoint": "DTTA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 10.226944,
+        "latitude": 36.851111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.226944,
+          36.851111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:002",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:002",
+        "sequence": 2,
+        "waypoint": "ICANI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.640556,
+        "latitude": 37.236111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.640556,
+          37.236111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:003",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:003",
+        "sequence": 3,
+        "waypoint": "SIRVI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.863333,
+        "latitude": 37.442778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.863333,
+          37.442778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:004",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:004",
+        "sequence": 4,
+        "waypoint": "SUSIP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.113889,
+        "latitude": 37.673611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.113889,
+          37.673611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:005",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:005",
+        "sequence": 5,
+        "waypoint": "PININ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.394444,
+        "latitude": 37.929722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.394444,
+          37.929722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:006",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:006",
+        "sequence": 6,
+        "waypoint": "GIANO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 12.4475,
+        "latitude": 38.869167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4475,
+          38.869167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:007",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:007",
+        "sequence": 7,
+        "waypoint": "DORAS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 13.06,
+        "latitude": 39.598889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.06,
+          39.598889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:008",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:008",
+        "sequence": 8,
+        "waypoint": "VAPUP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 15.205556,
+        "latitude": 43.055833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.205556,
+          43.055833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:009",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:009",
+        "sequence": 9,
+        "waypoint": "TEBLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 16.675889,
+        "latitude": 45.201528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.675889,
+          45.201528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:010",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:010",
+        "sequence": 10,
+        "waypoint": "KOPRY",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 16.962778,
+        "latitude": 46.240278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.962778,
+          46.240278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:011",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:011",
+        "sequence": 11,
+        "waypoint": "ULZAK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 18.566944,
+        "latitude": 46.994167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.566944,
+          46.994167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LHBP:012",
+      "properties": {
+        "route_id": "DTTA-LHBP",
+        "route_name": "DTTA-LHBP",
+        "origin": "DTTA",
+        "destination": "LHBP",
+        "point_count": 12,
+        "source_file": "DTTC-LHBP.gpx",
+        "point_id": "DTTA-LHBP:012",
+        "sequence": 12,
+        "waypoint": "LHBP",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 19.261944,
+        "latitude": 47.439444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.261944,
+          47.439444
+        ]
+      }
+    }
+  ]
+}

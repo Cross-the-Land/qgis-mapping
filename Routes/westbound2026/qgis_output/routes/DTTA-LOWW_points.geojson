@@ -1,0 +1,396 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:001",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:001",
+        "sequence": 1,
+        "waypoint": "DTTA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 10.226944,
+        "latitude": 36.851111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.226944,
+          36.851111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:002",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:002",
+        "sequence": 2,
+        "waypoint": "ICANI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.640556,
+        "latitude": 37.236111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.640556,
+          37.236111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:003",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:003",
+        "sequence": 3,
+        "waypoint": "SIRVI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.863333,
+        "latitude": 37.442778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.863333,
+          37.442778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:004",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:004",
+        "sequence": 4,
+        "waypoint": "NIBEL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 10.959167,
+        "latitude": 37.742778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.959167,
+          37.742778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:005",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:005",
+        "sequence": 5,
+        "waypoint": "GERMO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.356944,
+        "latitude": 39.249722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.356944,
+          39.249722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:006",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:006",
+        "sequence": 6,
+        "waypoint": "BETOT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.631667,
+        "latitude": 40.385833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631667,
+          40.385833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:007",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:007",
+        "sequence": 7,
+        "waypoint": "TURMO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 11.832778,
+        "latitude": 40.861111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.832778,
+          40.861111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:008",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:008",
+        "sequence": 8,
+        "waypoint": "KONUT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 12.016667,
+        "latitude": 41.292778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.016667,
+          41.292778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:009",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:009",
+        "sequence": 9,
+        "waypoint": "OST",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 12.237528,
+        "latitude": 41.803778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.237528,
+          41.803778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:010",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:010",
+        "sequence": 10,
+        "waypoint": "INTUD",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 12.620556,
+        "latitude": 42.471389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.620556,
+          42.471389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:011",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:011",
+        "sequence": 11,
+        "waypoint": "ERLIT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 13.167303,
+        "latitude": 43.383725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.167303,
+          43.383725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:012",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:012",
+        "sequence": 12,
+        "waypoint": "NIKOL",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 13.686111,
+        "latitude": 44.221944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.686111,
+          44.221944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:013",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:013",
+        "sequence": 13,
+        "waypoint": "EBITI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 14.985525,
+        "latitude": 46.059919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.985525,
+          46.059919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:014",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:014",
+        "sequence": 14,
+        "waypoint": "LAPNA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 15.520431,
+        "latitude": 46.535497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.520431,
+          46.535497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DTTA-LOWW:015",
+      "properties": {
+        "route_id": "DTTA-LOWW",
+        "route_name": "DTTA-LOWW",
+        "origin": "DTTA",
+        "destination": "LOWW",
+        "point_count": 15,
+        "source_file": "DTTC-LOWW.gpx",
+        "point_id": "DTTA-LOWW:015",
+        "sequence": 15,
+        "waypoint": "LOWW",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 16.569722,
+        "latitude": 48.110278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.569722,
+          48.110278
+        ]
+      }
+    }
+  ]
+}

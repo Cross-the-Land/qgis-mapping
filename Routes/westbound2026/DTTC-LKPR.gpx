@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>DTTA-LKPR</name>
+    <rtept lat="36.851111" lon="10.226944">
+      <name>DTTA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.236111" lon="10.640556">
+      <name>ICANI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.442778" lon="10.863333">
+      <name>SIRVI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.742778" lon="10.959167">
+      <name>NIBEL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.385833" lon="11.631667">
+      <name>BETOT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="45.071083" lon="12.281444">
+      <name>CHI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="48.948328" lon="14.336028">
+      <name>BUDEX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="49.648333" lon="14.122500">
+      <name>APRAQ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="50.100833" lon="14.260000">
+      <name>LKPR</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

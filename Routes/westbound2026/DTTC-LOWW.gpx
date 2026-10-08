@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>DTTA-LOWW</name>
+    <rtept lat="36.851111" lon="10.226944">
+      <name>DTTA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.236111" lon="10.640556">
+      <name>ICANI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.442778" lon="10.863333">
+      <name>SIRVI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.742778" lon="10.959167">
+      <name>NIBEL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.249722" lon="11.356944">
+      <name>GERMO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.385833" lon="11.631667">
+      <name>BETOT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.861111" lon="11.832778">
+      <name>TURMO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.292778" lon="12.016667">
+      <name>KONUT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.803778" lon="12.237528">
+      <name>OST</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.471389" lon="12.620556">
+      <name>INTUD</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.383725" lon="13.167303">
+      <name>ERLIT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="44.221944" lon="13.686111">
+      <name>NIKOL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="46.059919" lon="14.985525">
+      <name>EBITI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="46.535497" lon="15.520431">
+      <name>LAPNA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="48.110278" lon="16.569722">
+      <name>LOWW</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

@@ -1,0 +1,1358 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:001",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:001",
+        "sequence": 1,
+        "waypoint": "OMDB",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 55.364444,
+        "latitude": 25.252778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.364444,
+          25.252778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:002",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:002",
+        "sequence": 2,
+        "waypoint": "KUTLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.938333,
+        "latitude": 24.86425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.938333,
+          24.86425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:003",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:003",
+        "sequence": 3,
+        "waypoint": "GEVIV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.833333,
+        "latitude": 24.688333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.833333,
+          24.688333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:004",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:004",
+        "sequence": 4,
+        "waypoint": "ELEPO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.736111,
+        "latitude": 24.536389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.736111,
+          24.536389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:005",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:005",
+        "sequence": 5,
+        "waypoint": "ODKUN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.671389,
+        "latitude": 24.435556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.671389,
+          24.435556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:006",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:006",
+        "sequence": 6,
+        "waypoint": "VUXOD",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.606944,
+        "latitude": 24.334722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.606944,
+          24.334722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:007",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:007",
+        "sequence": 7,
+        "waypoint": "ATUDO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.575556,
+        "latitude": 24.285556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.575556,
+          24.285556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:008",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:008",
+        "sequence": 8,
+        "waypoint": "MUSEN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.543333,
+        "latitude": 24.241389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.543333,
+          24.241389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:009",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:009",
+        "sequence": 9,
+        "waypoint": "BOPIT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 54.067778,
+        "latitude": 23.996389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.067778,
+          23.996389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:010",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:010",
+        "sequence": 10,
+        "waypoint": "DANOK",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 53.519722,
+        "latitude": 23.705556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.519722,
+          23.705556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:011",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:011",
+        "sequence": 11,
+        "waypoint": "ESROM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 52.958056,
+        "latitude": 23.406667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.958056,
+          23.406667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:012",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:012",
+        "sequence": 12,
+        "waypoint": "GOLGU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 52.519167,
+        "latitude": 23.180833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.519167,
+          23.180833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:013",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:013",
+        "sequence": 13,
+        "waypoint": "RIBOT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 52.407778,
+        "latitude": 23.145556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.407778,
+          23.145556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:014",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:014",
+        "sequence": 14,
+        "waypoint": "MIGMA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 51.463611,
+        "latitude": 22.843056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.463611,
+          22.843056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:015",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:015",
+        "sequence": 15,
+        "waypoint": "ITRUX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 47.176667,
+        "latitude": 22.762222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.176667,
+          22.762222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:016",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:016",
+        "sequence": 16,
+        "waypoint": "KITUB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 46.395,
+        "latitude": 22.822778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.395,
+          22.822778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:017",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:017",
+        "sequence": 17,
+        "waypoint": "DANOM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 45.085833,
+        "latitude": 22.915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.085833,
+          22.915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:018",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:018",
+        "sequence": 18,
+        "waypoint": "ASMIS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 44.670556,
+        "latitude": 22.941944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.670556,
+          22.941944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:019",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:019",
+        "sequence": 19,
+        "waypoint": "NALBA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 43.571944,
+        "latitude": 23.2775
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.571944,
+          23.2775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:020",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:020",
+        "sequence": 20,
+        "waypoint": "LAKMI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 43.140833,
+        "latitude": 23.406667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.140833,
+          23.406667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:021",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:021",
+        "sequence": 21,
+        "waypoint": "ASMUN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 42.753889,
+        "latitude": 23.521111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.753889,
+          23.521111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:022",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:022",
+        "sequence": 22,
+        "waypoint": "AMRAH",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 42.287778,
+        "latitude": 23.657778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.287778,
+          23.657778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:023",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:023",
+        "sequence": 23,
+        "waypoint": "BOXEB",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.989167,
+        "latitude": 23.744167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.989167,
+          23.744167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:024",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:024",
+        "sequence": 24,
+        "waypoint": "ALVIR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.771667,
+        "latitude": 23.806944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.771667,
+          23.806944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:025",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:025",
+        "sequence": 25,
+        "waypoint": "ALKAV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.563333,
+        "latitude": 23.866667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.563333,
+          23.866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:026",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:026",
+        "sequence": 26,
+        "waypoint": "ASVIV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 41.355833,
+        "latitude": 23.925556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.355833,
+          23.925556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:027",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:027",
+        "sequence": 27,
+        "waypoint": "NAGBO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 40.955556,
+        "latitude": 24.038611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.955556,
+          24.038611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:028",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:028",
+        "sequence": 28,
+        "waypoint": "ELONU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 40.514806,
+        "latitude": 24.161694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.514806,
+          24.161694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:029",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:029",
+        "sequence": 29,
+        "waypoint": "PMA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 39.705278,
+        "latitude": 24.547472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.705278,
+          24.547472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:030",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:030",
+        "sequence": 30,
+        "waypoint": "PEGUR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 39.164028,
+        "latitude": 25.222194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.164028,
+          25.222194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:031",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:031",
+        "sequence": 31,
+        "waypoint": "SIGRO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 37.810856,
+        "latitude": 26.004833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.810856,
+          26.004833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:032",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:032",
+        "sequence": 32,
+        "waypoint": "IVUDA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 37.5025,
+        "latitude": 26.046667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5025,
+          26.046667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:033",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:033",
+        "sequence": 33,
+        "waypoint": "WEJ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 36.488111,
+        "latitude": 26.179333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.488111,
+          26.179333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:034",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:034",
+        "sequence": 34,
+        "waypoint": "DARAX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 35.784167,
+        "latitude": 26.786944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.784167,
+          26.786944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:035",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:035",
+        "sequence": 35,
+        "waypoint": "SEPSA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.649444,
+        "latitude": 27.431111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.649444,
+          27.431111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:036",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:036",
+        "sequence": 36,
+        "waypoint": "NAGAR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 34.163686,
+        "latitude": 27.667997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.163686,
+          27.667997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:037",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:037",
+        "sequence": 37,
+        "waypoint": "KUVRI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.818514,
+        "latitude": 28.7735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.818514,
+          28.7735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:038",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:038",
+        "sequence": 38,
+        "waypoint": "ALSEN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.258019,
+        "latitude": 29.028317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.258019,
+          29.028317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:039",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:039",
+        "sequence": 39,
+        "waypoint": "EMESO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.572944,
+        "latitude": 29.524292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.572944,
+          29.524292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:040",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:040",
+        "sequence": 40,
+        "waypoint": "KARAM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.318722,
+        "latitude": 30.623542
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.318722,
+          30.623542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:041",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:041",
+        "sequence": 41,
+        "waypoint": "MODID",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.198169,
+        "latitude": 30.727169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.198169,
+          30.727169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:042",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:042",
+        "sequence": 42,
+        "waypoint": "NOKLO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.084433,
+        "latitude": 30.824611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.084433,
+          30.824611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:043",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:043",
+        "sequence": 43,
+        "waypoint": "HAZEM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 28.228947,
+        "latitude": 31.547356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.228947,
+          31.547356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:044",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:044",
+        "sequence": 44,
+        "waypoint": "IMSEN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 27.810833,
+        "latitude": 31.894167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.810833,
+          31.894167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:045",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:045",
+        "sequence": 45,
+        "waypoint": "ALKIT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 27.045747,
+        "latitude": 32.517331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.045747,
+          32.517331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:046",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:046",
+        "sequence": 46,
+        "waypoint": "METRU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.15,
+        "latitude": 34.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.15,
+          34.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:047",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:047",
+        "sequence": 47,
+        "waypoint": "RUTOM",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.0,
+        "latitude": 38.518333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0,
+          38.518333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:048",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:048",
+        "sequence": 48,
+        "waypoint": "SOR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 14.335028,
+        "latitude": 40.582444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.335028,
+          40.582444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:049",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:049",
+        "sequence": 49,
+        "waypoint": "TEA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 13.970667,
+        "latitude": 41.296778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.970667,
+          41.296778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:050",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:050",
+        "sequence": 50,
+        "waypoint": "SIPRO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 13.680528,
+        "latitude": 41.446019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.680528,
+          41.446019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:051",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:051",
+        "sequence": 51,
+        "waypoint": "LAT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 12.918056,
+        "latitude": 41.541111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.918056,
+          41.541111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMDB-LIRF:052",
+      "properties": {
+        "route_id": "OMDB-LIRF",
+        "route_name": "OMDB-LIRF",
+        "origin": "OMDB",
+        "destination": "LIRF",
+        "point_count": 52,
+        "source_file": "OMDB-LIRF.gpx",
+        "point_id": "OMDB-LIRF:052",
+        "sequence": 52,
+        "waypoint": "LIRF",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 12.238889,
+        "latitude": 41.800278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.238889,
+          41.800278
+        ]
+      }
+    }
+  ]
+}

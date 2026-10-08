@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>OKKK-LKPR</name>
+    <rtept lat="29.226767" lon="47.979953">
+      <name>OKKK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.022222" lon="47.918056">
+      <name>TASMI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.566111" lon="47.187778">
+      <name>GADSI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.750000" lon="46.066667">
+      <name>KODAV</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="32.551389" lon="45.264444">
+      <name>RESAK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="33.216667" lon="44.733333">
+      <name>SEPTU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="34.507500" lon="44.692500">
+      <name>NAMDI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.283333" lon="44.316667">
+      <name>OTALO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.816111" lon="44.041389">
+      <name>TOMSI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.276944" lon="43.800000">
+      <name>VUSEB</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.745833" lon="43.556111">
+      <name>ROXOP</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.350000" lon="43.216667">
+      <name>NINVA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.588333" lon="42.655278">
+      <name>EFFEZ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.910667" lon="41.881972">
+      <name>SRT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.463889" lon="41.080000">
+      <name>RENGI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.630556" lon="40.825000">
+      <name>NAREN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.188889" lon="39.972222">
+      <name>TALIL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.511667" lon="39.468056">
+      <name>KONUK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.725000" lon="39.123611">
+      <name>EBEDI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.327778" lon="38.150000">
+      <name>ODALI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.470000" lon="37.675833">
+      <name>NELPO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.764167" lon="36.668056">
+      <name>APVAS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.935556" lon="36.062500">
+      <name>USANU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.990278" lon="35.866111">
+      <name>ODPOT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.263611" lon="34.862222">
+      <name>RUXEV</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.402500" lon="34.337222">
+      <name>EKSUK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.454722" lon="34.135278">
+      <name>UPKAG</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.596944" lon="33.578611">
+      <name>VAXEB</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.607222" lon="33.538056">
+      <name>ESOSU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.733611" lon="33.031111">
+      <name>TIVUG</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.800278" lon="32.759444">
+      <name>EVPUV</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.872500" lon="32.461111">
+      <name>DEVMU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.895000" lon="32.366667">
+      <name>EVPIM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.927222" lon="32.232778">
+      <name>BEDOP</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.009167" lon="31.885833">
+      <name>MODAU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.121389" lon="31.403056">
+      <name>ODMAX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.461667" lon="29.870278">
+      <name>NEGEM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="46.687500" lon="21.496667">
+      <name>BUDOP</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="48.865172" lon="17.709514">
+      <name>LALES</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="49.407894" lon="15.947267">
+      <name>TUMKA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="49.704272" lon="15.066742">
+      <name>VLM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="50.100833" lon="14.260000">
+      <name>LKPR</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

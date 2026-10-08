@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>DTTA-LGAV</name>
+    <rtept lat="36.851111" lon="10.226944">
+      <name>DTTA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.895194" lon="11.088917">
+      <name>CBN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.189167" lon="11.500000">
+      <name>TUPAL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.538056" lon="11.996111">
+      <name>MEGAN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.773333" lon="13.999444">
+      <name>ENEPA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.935036" lon="14.690147">
+      <name>UXUTA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.076583" lon="15.645278">
+      <name>RCA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.280556" lon="17.089444">
+      <name>ROXOM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.518333" lon="19.000000">
+      <name>RUTOM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.158983" lon="21.429411">
+      <name>ARA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.706389" lon="22.580833">
+      <name>NEMES</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.936700" lon="23.944500">
+      <name>LGAV</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

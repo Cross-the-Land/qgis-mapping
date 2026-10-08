@@ -1,0 +1,526 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:001",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:001",
+        "sequence": 1,
+        "waypoint": "HECA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 31.413889,
+        "latitude": 30.111389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.413889,
+          30.111389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:002",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:002",
+        "sequence": 2,
+        "waypoint": "CVO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.388417,
+        "latitude": 30.092306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.388417,
+          30.092306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:003",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:003",
+        "sequence": 3,
+        "waypoint": "MERPI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.32,
+        "latitude": 30.465556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.32,
+          30.465556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:004",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:004",
+        "sequence": 4,
+        "waypoint": "LAGVI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.512222,
+        "latitude": 30.751944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.512222,
+          30.751944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:005",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:005",
+        "sequence": 5,
+        "waypoint": "ULOMO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.420833,
+        "latitude": 31.250833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.420833,
+          31.250833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:006",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:006",
+        "sequence": 6,
+        "waypoint": "SENTO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.364444,
+        "latitude": 31.554722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.364444,
+          31.554722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:007",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:007",
+        "sequence": 7,
+        "waypoint": "DARUR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.332222,
+        "latitude": 31.865556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.332222,
+          31.865556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:008",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:008",
+        "sequence": 8,
+        "waypoint": "NIVTI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.311944,
+        "latitude": 32.057222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.311944,
+          32.057222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:009",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:009",
+        "sequence": 9,
+        "waypoint": "IMPIP",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.299722,
+        "latitude": 32.171667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.299722,
+          32.171667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:010",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:010",
+        "sequence": 10,
+        "waypoint": "AZMEY",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.255833,
+        "latitude": 32.578333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.255833,
+          32.578333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:011",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:011",
+        "sequence": 11,
+        "waypoint": "RASDA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.95,
+        "latitude": 33.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.95,
+          33.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:012",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:012",
+        "sequence": 12,
+        "waypoint": "ANIDE",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.0,
+        "latitude": 34.163611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0,
+          34.163611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:013",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:013",
+        "sequence": 13,
+        "waypoint": "RIPLI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.362778,
+        "latitude": 37.275833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.362778,
+          37.275833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:014",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:014",
+        "sequence": 14,
+        "waypoint": "NEVRA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 24.560278,
+        "latitude": 38.168333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.560278,
+          38.168333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:015",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:015",
+        "sequence": 15,
+        "waypoint": "AGISA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 23.348333,
+        "latitude": 39.733333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.348333,
+          39.733333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:016",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:016",
+        "sequence": 16,
+        "waypoint": "TALAS",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.916667,
+        "latitude": 41.076667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.916667,
+          41.076667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:017",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:017",
+        "sequence": 17,
+        "waypoint": "LONTA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.397222,
+        "latitude": 42.159444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.397222,
+          42.159444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:018",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:018",
+        "sequence": 18,
+        "waypoint": "DOLEV",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 20.311389,
+        "latitude": 42.833889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.311389,
+          42.833889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:019",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:019",
+        "sequence": 19,
+        "waypoint": "OBUTI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 16.27405,
+        "latitude": 46.378303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.27405,
+          46.378303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LOWW:020",
+      "properties": {
+        "route_id": "HECA-LOWW",
+        "route_name": "HECA-LOWW",
+        "origin": "HECA",
+        "destination": "LOWW",
+        "point_count": 20,
+        "source_file": "HECA-LOWW.gpx",
+        "point_id": "HECA-LOWW:020",
+        "sequence": 20,
+        "waypoint": "LOWW",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 16.569722,
+        "latitude": 48.110278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.569722,
+          48.110278
+        ]
+      }
+    }
+  ]
+}

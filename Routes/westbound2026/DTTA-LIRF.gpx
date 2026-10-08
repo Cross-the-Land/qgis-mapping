@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>DTTA-LIRF</name>
+    <rtept lat="36.851111" lon="10.226944">
+      <name>DTTA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.236111" lon="10.640556">
+      <name>ICANI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.442778" lon="10.863333">
+      <name>SIRVI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.742778" lon="10.959167">
+      <name>NIBEL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.249722" lon="11.356944">
+      <name>GERMO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.385833" lon="11.631667">
+      <name>BETOT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.861111" lon="11.832778">
+      <name>TURMO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.384719" lon="11.794722">
+      <name>ESINO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.800278" lon="12.238889">
+      <name>LIRF</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

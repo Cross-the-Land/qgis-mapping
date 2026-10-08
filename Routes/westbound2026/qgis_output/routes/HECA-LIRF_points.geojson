@@ -1,0 +1,500 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:001",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:001",
+        "sequence": 1,
+        "waypoint": "HECA",
+        "point_role": "origin",
+        "overfly": false,
+        "longitude": 31.413889,
+        "latitude": 30.111389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.413889,
+          30.111389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:002",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:002",
+        "sequence": 2,
+        "waypoint": "CVO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 31.388417,
+        "latitude": 30.092306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.388417,
+          30.092306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:003",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:003",
+        "sequence": 3,
+        "waypoint": "MENKU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 30.301667,
+        "latitude": 31.091944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.301667,
+          31.091944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:004",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:004",
+        "sequence": 4,
+        "waypoint": "NOZ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.950833,
+        "latitude": 31.1875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.950833,
+          31.1875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:005",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:005",
+        "sequence": 5,
+        "waypoint": "SOBAX",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.309722,
+        "latitude": 31.585556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.309722,
+          31.585556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:006",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:006",
+        "sequence": 6,
+        "waypoint": "NABSI",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 29.071944,
+        "latitude": 31.731111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.071944,
+          31.731111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:007",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:007",
+        "sequence": 7,
+        "waypoint": "LAKBA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 27.432222,
+        "latitude": 32.711111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.432222,
+          32.711111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:008",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:008",
+        "sequence": 8,
+        "waypoint": "ITEXO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 26.976111,
+        "latitude": 32.975556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.976111,
+          32.975556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:009",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:009",
+        "sequence": 9,
+        "waypoint": "METRU",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 25.15,
+        "latitude": 34.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.15,
+          34.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:010",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:010",
+        "sequence": 10,
+        "waypoint": "TETUZ",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 21.608611,
+        "latitude": 36.031667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.608611,
+          36.031667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:011",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:011",
+        "sequence": 11,
+        "waypoint": "LORNO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 19.0,
+        "latitude": 37.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0,
+          37.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:012",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:012",
+        "sequence": 12,
+        "waypoint": "CRN",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 17.083056,
+        "latitude": 38.996111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.083056,
+          38.996111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:013",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:013",
+        "sequence": 13,
+        "waypoint": "LODPA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 16.326111,
+        "latitude": 39.162222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.326111,
+          39.162222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:014",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:014",
+        "sequence": 14,
+        "waypoint": "POLIT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 14.833333,
+        "latitude": 40.146667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.833333,
+          40.146667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:015",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:015",
+        "sequence": 15,
+        "waypoint": "SOR",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 14.335028,
+        "latitude": 40.582444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.335028,
+          40.582444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:016",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:016",
+        "sequence": 16,
+        "waypoint": "TEA",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 13.970667,
+        "latitude": 41.296778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.970667,
+          41.296778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:017",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:017",
+        "sequence": 17,
+        "waypoint": "SIPRO",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 13.680528,
+        "latitude": 41.446019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.680528,
+          41.446019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:018",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:018",
+        "sequence": 18,
+        "waypoint": "LAT",
+        "point_role": "enroute",
+        "overfly": false,
+        "longitude": 12.918056,
+        "latitude": 41.541111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.918056,
+          41.541111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HECA-LIRF:019",
+      "properties": {
+        "route_id": "HECA-LIRF",
+        "route_name": "HECA-LIRF",
+        "origin": "HECA",
+        "destination": "LIRF",
+        "point_count": 19,
+        "source_file": "HECA-LIRF.gpx",
+        "point_id": "HECA-LIRF:019",
+        "sequence": 19,
+        "waypoint": "LIRF",
+        "point_role": "destination",
+        "overfly": false,
+        "longitude": 12.238889,
+        "latitude": 41.800278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.238889,
+          41.800278
+        ]
+      }
+    }
+  ]
+}

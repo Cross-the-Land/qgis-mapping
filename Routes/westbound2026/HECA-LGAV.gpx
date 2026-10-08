@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>HECA-LGAV</name>
+    <rtept lat="30.111389" lon="31.413889">
+      <name>HECA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.092306" lon="31.388417">
+      <name>CVO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.091944" lon="30.301667">
+      <name>MENKU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.187500" lon="29.950833">
+      <name>NOZ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="32.002778" lon="29.437500">
+      <name>GOMVA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="32.213611" lon="29.303056">
+      <name>NOGLI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="33.800000" lon="28.266667">
+      <name>ANTAR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.421822" lon="27.146911">
+      <name>KPC</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.907778" lon="26.763333">
+      <name>TIPAS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.565278" lon="26.232778">
+      <name>ASTIS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.204444" lon="25.451667">
+      <name>PEROK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.275833" lon="25.362778">
+      <name>RIPLI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.363889" lon="25.034167">
+      <name>VARIX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.936700" lon="23.944500">
+      <name>LGAV</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

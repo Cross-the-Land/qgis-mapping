@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>OMDB-LGAV</name>
+    <rtept lat="25.252778" lon="55.364444">
+      <name>OMDB</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.864250" lon="54.938333">
+      <name>KUTLI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.688333" lon="54.833333">
+      <name>GEVIV</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.536389" lon="54.736111">
+      <name>ELEPO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.435556" lon="54.671389">
+      <name>ODKUN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.334722" lon="54.606944">
+      <name>VUXOD</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.285556" lon="54.575556">
+      <name>ATUDO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.241389" lon="54.543333">
+      <name>MUSEN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.996389" lon="54.067778">
+      <name>BOPIT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.705556" lon="53.519722">
+      <name>DANOK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.406667" lon="52.958056">
+      <name>ESROM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.180833" lon="52.519167">
+      <name>GOLGU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.145556" lon="52.407778">
+      <name>RIBOT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="22.843056" lon="51.463611">
+      <name>MIGMA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="22.762222" lon="47.176667">
+      <name>ITRUX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="22.822778" lon="46.395000">
+      <name>KITUB</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="22.915000" lon="45.085833">
+      <name>DANOM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="22.941944" lon="44.670556">
+      <name>ASMIS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.277500" lon="43.571944">
+      <name>NALBA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.406667" lon="43.140833">
+      <name>LAKMI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.521111" lon="42.753889">
+      <name>ASMUN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.657778" lon="42.287778">
+      <name>AMRAH</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.744167" lon="41.989167">
+      <name>BOXEB</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.806944" lon="41.771667">
+      <name>ALVIR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.866667" lon="41.563333">
+      <name>ALKAV</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="23.925556" lon="41.355833">
+      <name>ASVIV</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.038611" lon="40.955556">
+      <name>NAGBO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.161694" lon="40.514806">
+      <name>ELONU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="24.547472" lon="39.705278">
+      <name>PMA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="25.222194" lon="39.164028">
+      <name>PEGUR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="26.004833" lon="37.810856">
+      <name>SIGRO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="26.046667" lon="37.502500">
+      <name>IVUDA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="26.179333" lon="36.488111">
+      <name>WEJ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="26.786944" lon="35.784167">
+      <name>DARAX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="27.431111" lon="34.649444">
+      <name>SEPSA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="27.667997" lon="34.163686">
+      <name>NAGAR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="28.773500" lon="31.818514">
+      <name>KUVRI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.028317" lon="31.258019">
+      <name>ALSEN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="29.524292" lon="30.572944">
+      <name>EMESO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.623542" lon="29.318722">
+      <name>KARAM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.727169" lon="29.198169">
+      <name>MODID</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.824611" lon="29.084433">
+      <name>NOKLO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.547356" lon="28.228947">
+      <name>HAZEM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.894167" lon="27.810833">
+      <name>IMSEN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="32.309444" lon="27.619444">
+      <name>KUPOX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="32.711111" lon="27.432222">
+      <name>LAKBA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="34.000000" lon="26.816667">
+      <name>TANSA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.068422" lon="26.189064">
+      <name>SIT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.694722" lon="25.576944">
+      <name>XAVIS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.925000" lon="25.348889">
+      <name>ALIKI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.747508" lon="24.519456">
+      <name>MIL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.000556" lon="24.073889">
+      <name>BADEL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.936700" lon="23.944500">
+      <name>LGAV</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

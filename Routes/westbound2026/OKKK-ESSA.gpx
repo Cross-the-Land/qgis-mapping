@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>OKKK-ESSA</name>
+    <rtept lat="29.226767" lon="47.979953">
+      <name>OKKK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.022222" lon="47.918056">
+      <name>TASMI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="30.566111" lon="47.187778">
+      <name>GADSI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="31.205278" lon="46.312222">
+      <name>ALPET</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="33.170450" lon="44.284150">
+      <name>DEBNI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="33.260833" lon="44.249167">
+      <name>LAGLO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="34.499722" lon="44.138056">
+      <name>TAGRU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.294722" lon="43.718611">
+      <name>UMESA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.096667" lon="43.287778">
+      <name>SEVKU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.770000" lon="42.915000">
+      <name>EMIDO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.248889" lon="42.649722">
+      <name>KABAN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.117194" lon="40.606583">
+      <name>SUMAP</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.842222" lon="38.941944">
+      <name>ARPUT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.783611" lon="36.243611">
+      <name>ZACUF</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.503575" lon="33.943294">
+      <name>EKMEK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.132500" lon="32.069167">
+      <name>LETBU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.766667" lon="31.308611">
+      <name>UNSUL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.000556" lon="31.022778">
+      <name>ERMUP</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.287222" lon="30.668889">
+      <name>RIXUB</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.610556" lon="30.264444">
+      <name>ODERO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.096111" lon="29.143333">
+      <name>RORKI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.333611" lon="28.556389">
+      <name>NEDSI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.609167" lon="27.838611">
+      <name>MAXOV</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="44.277917" lon="26.772883">
+      <name>OSTAL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="46.446917" lon="24.306583">
+      <name>TGM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="47.260833" lon="23.322500">
+      <name>ANAVU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="48.361667" lon="21.927222">
+      <name>KENIN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="49.412778" lon="21.439167">
+      <name>PODAN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="50.133333" lon="21.014444">
+      <name>OSBUG</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="51.224111" lon="20.274944">
+      <name>RUXOM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="51.581417" lon="19.960750">
+      <name>AGAVA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="52.563056" lon="19.277222">
+      <name>PENEX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="53.750583" lon="18.614861">
+      <name>IRLUN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="54.299722" lon="18.208056">
+      <name>KARTI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="55.209444" lon="17.505556">
+      <name>MOTAD</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="55.638611" lon="17.161389">
+      <name>PENOR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="56.337778" lon="17.228611">
+      <name>TESPO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="58.597222" lon="17.733611">
+      <name>DISRU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="58.815833" lon="17.884722">
+      <name>NILUG</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="59.651944" lon="17.918611">
+      <name>ESSA</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

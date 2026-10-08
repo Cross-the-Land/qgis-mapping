@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "VATSIM Cross the Land westbound 2026",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DTTA-LGAV",
+      "properties": {
+        "route_id": "DTTA-LGAV",
+        "route_name": "DTTA-LGAV",
+        "origin": "DTTA",
+        "destination": "LGAV",
+        "point_count": 12,
+        "source_file": "DTTC-LGAV.gpx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.226944,
+            36.851111
+          ],
+          [
+            11.088917,
+            36.895194
+          ],
+          [
+            11.5,
+            37.189167
+          ],
+          [
+            11.996111,
+            37.538056
+          ],
+          [
+            13.999444,
+            37.773333
+          ],
+          [
+            14.690147,
+            37.935036
+          ],
+          [
+            15.645278,
+            38.076583
+          ],
+          [
+            17.089444,
+            38.280556
+          ],
+          [
+            19.0,
+            38.518333
+          ],
+          [
+            21.429411,
+            38.158983
+          ],
+          [
+            22.580833,
+            37.706389
+          ],
+          [
+            23.9445,
+            37.9367
+          ]
+        ]
+      }
+    }
+  ]
+}
